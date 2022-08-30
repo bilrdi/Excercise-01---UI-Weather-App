@@ -11,6 +11,7 @@
 		D1800C7E28BDA281002B9F9C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1800C7D28BDA281002B9F9C /* ContentView.swift */; };
 		D1800C8028BDA283002B9F9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1800C7F28BDA283002B9F9C /* Assets.xcassets */; };
 		D1800C8328BDA283002B9F9C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1800C8228BDA283002B9F9C /* Preview Assets.xcassets */; };
+		D1800C8A28BDB487002B9F9C /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1800C8928BDB487002B9F9C /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D1800C7D28BDA281002B9F9C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D1800C7F28BDA283002B9F9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1800C8228BDA283002B9F9C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D1800C8928BDB487002B9F9C /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D1800C7B28BDA281002B9F9C /* front_end_weather_app_sampleApp.swift */,
 				D1800C7D28BDA281002B9F9C /* ContentView.swift */,
+				D1800C8928BDB487002B9F9C /* WeatherButton.swift */,
 				D1800C7F28BDA283002B9F9C /* Assets.xcassets */,
 				D1800C8128BDA283002B9F9C /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				D1800C7E28BDA281002B9F9C /* ContentView.swift in Sources */,
 				D1800C7C28BDA281002B9F9C /* front_end_weather_app_sampleApp.swift in Sources */,
+				D1800C8A28BDB487002B9F9C /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
